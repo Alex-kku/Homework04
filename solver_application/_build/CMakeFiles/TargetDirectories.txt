@@ -1,0 +1,4 @@
+/home/baha/Alex-kku/workspace/projects/homework03/tmp/solver_application/_build/CMakeFiles/rebuild_cache.dir
+/home/baha/Alex-kku/workspace/projects/homework03/tmp/solver_application/_build/CMakeFiles/edit_cache.dir
+/home/baha/Alex-kku/workspace/projects/homework03/tmp/solver_application/_build/CMakeFiles/solver.dir
+/home/baha/Alex-kku/workspace/projects/homework03/tmp/solver_application/_build/CMakeFiles/Solver.dir

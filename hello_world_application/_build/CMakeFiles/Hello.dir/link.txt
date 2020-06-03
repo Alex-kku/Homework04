@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHello.a  CMakeFiles/Hello.dir/home/baha/Alex-kku/workspace/projects/homework03/tmp/formatter_ex_lib/formatter_ex.cpp.o CMakeFiles/Hello.dir/home/baha/Alex-kku/workspace/projects/homework03/tmp/formatter_lib/formatter.cpp.o
+/usr/bin/ranlib libHello.a
