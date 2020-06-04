@@ -1,4 +1,0 @@
-/home/baha/Alex-kku/workspace/projects/homework03/tmp/hello_world_application/_build/CMakeFiles/rebuild_cache.dir
-/home/baha/Alex-kku/workspace/projects/homework03/tmp/hello_world_application/_build/CMakeFiles/Hello_world.dir
-/home/baha/Alex-kku/workspace/projects/homework03/tmp/hello_world_application/_build/CMakeFiles/edit_cache.dir
-/home/baha/Alex-kku/workspace/projects/homework03/tmp/hello_world_application/_build/CMakeFiles/Hello.dir

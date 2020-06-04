@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Alex-kku/Lab04.svg?branch=master)](https://travis-ci.com/Alex-kku/Lab04)
 ## Homework
 
 Представьте, что вы стажер в компании "Formatter Inc.".

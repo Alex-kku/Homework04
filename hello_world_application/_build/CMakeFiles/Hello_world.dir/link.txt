@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/Hello_world.dir/hello_world.cpp.o  -o Hello_world libHello.a 
